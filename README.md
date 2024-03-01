@@ -1,0 +1,1 @@
+I just created a project to find the population of Sri Lanka in every district. This is my beginner-level project, showcasing my potential. You can view it on my website: https://sktavinash.github.io/srilankaPopulationjs/
